@@ -12,10 +12,9 @@
 
 *MENTOR NAME*: NEELA SANTHOSH
 
-*DESCRIPTION OF PROJECT*:
+*DESCRIPTION OF THE TASK*:
 
-  I have built a modern E-Learning Platform UI, focusing on a seamless user experience for students. The goal was to create an intuitive and interactive interface for browsing courses, tracking progress, and 
- engaging with educational content.
+  I have built a modern E-Learning Platform UI, focusing on a seamless user experience for students. The goal was to create an intuitive and interactive interface for browsing courses, tracking progress, and engaging with educational content.
 
 **Tools & Technologies Used** :
   •	Frontend: HTML, CSS, JavaScript
@@ -41,4 +40,4 @@
   •	Handling state management in JavaScript/React
   •	Deploying the UI for public access on GitHub Pages or Vercel
 
-**Output** :  
+**Output** :  ![Image](https://github.com/user-attachments/assets/ecad10b7-2aed-4d55-8bea-c50c40b45d5b)
